@@ -1,4 +1,4 @@
-package Day1.Basics;
+package Day_One;
 
 public class TypeCastingDemo {
 	public static void main(String[] args) {

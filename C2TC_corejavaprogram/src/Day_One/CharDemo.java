@@ -1,4 +1,4 @@
-package Day1.Basics;
+package Day_One;
 
 public class CharDemo {
 
