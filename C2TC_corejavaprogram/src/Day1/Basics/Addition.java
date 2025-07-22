@@ -1,4 +1,4 @@
-package Basics;
+package Day1.Basics;
 import java.util.*;
 public class Addition {
 
