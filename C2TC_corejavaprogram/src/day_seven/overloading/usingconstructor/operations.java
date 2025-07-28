@@ -1,4 +1,4 @@
-package day_7.overloading.usingconstructor;
+package day_seven.overloading.usingconstructor;
 
 public class operations {
 	//check whether number is Palindrome or not?

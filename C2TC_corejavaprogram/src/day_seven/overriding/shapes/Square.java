@@ -1,4 +1,4 @@
-package day_7.overriding.shapes;
+package day_seven.overriding.shapes;
 
 public class Square extends Shape{
 	private double side;

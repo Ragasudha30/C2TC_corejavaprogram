@@ -1,4 +1,4 @@
-package day_7.overloading;
+package day_seven.overloading.usingconstructor;
 
 public class Point {
 	private float x;

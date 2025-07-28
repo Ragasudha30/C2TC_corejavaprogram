@@ -1,4 +1,4 @@
-package day_7.overriding.covariant;
+package day_seven.overriding.covariant;
 
 //Program to define class with Covariant Method Overriding 
 //Student class

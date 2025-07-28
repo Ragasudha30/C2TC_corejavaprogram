@@ -1,4 +1,4 @@
-package day_7.overriding;
+package day_seven.overriding;
 
 public class OverridingDemo {
 

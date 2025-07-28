@@ -1,4 +1,4 @@
-package day_7.overriding.shapes;
+package day_seven.overriding.shapes;
 
 public class Circle extends Shape{
 	private double radius;

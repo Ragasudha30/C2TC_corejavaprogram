@@ -1,4 +1,4 @@
-package day_7.overriding.covariant;
+package day_seven.overriding.covariant;
 
 public class CovariantOverridingDemo {
 

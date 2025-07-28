@@ -1,4 +1,4 @@
-package day_7.overloading;
+package day_seven.overloading;
 
 public class OverloadingDemo {
 
