@@ -35,7 +35,5 @@ public class ObjectClassDemo {
 		System.gc();
 		System.out.println(d1);
 		
-	
-
 	}
 }
