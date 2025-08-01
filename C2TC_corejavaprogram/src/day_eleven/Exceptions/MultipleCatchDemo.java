@@ -17,7 +17,7 @@ public class MultipleCatchDemo {
 				numberTwo = sc.nextInt();
 				numberThree = numberOne / numberTwo;
 				System.out.println("Division is " + numberThree);
-				// break;
+				// break; --> reduce time complexity
 			} catch (InputMismatchException e) {
 				// e.printStackTrace();
 				System.out.println("Invalid input. Please enter integers only.");
