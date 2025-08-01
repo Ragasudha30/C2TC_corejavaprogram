@@ -1,4 +1,4 @@
-package day_fourteen.interthreadcommunication;
+package day_fourteen.Interthreadcommunication;
 
 public class InterThreadCommunicationDemo {
 	public static void main(String[] args) {
