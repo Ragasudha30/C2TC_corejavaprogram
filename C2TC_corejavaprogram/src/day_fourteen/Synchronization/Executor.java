@@ -1,4 +1,4 @@
-package day_fourteen.synchronization;
+package day_fourteen.Synchronization;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

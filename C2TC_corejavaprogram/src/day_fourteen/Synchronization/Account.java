@@ -1,4 +1,4 @@
-package day_fourteen.synchronization;
+package day_fourteen.Synchronization;
 
 public class Account implements Bank {
 	private int accNo;

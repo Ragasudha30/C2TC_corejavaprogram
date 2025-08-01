@@ -1,4 +1,4 @@
-package day_fourteen.synchronization;
+package day_fourteen.Synchronization;
 
 public interface Bank {
 	int MINBAL=5000; //fields are static and final
