@@ -1,4 +1,4 @@
-package day_fourteen.Interthreadcommunication;
+package day_fourteen.interthreadcommunication;
 
 public class Q {
 	int n;

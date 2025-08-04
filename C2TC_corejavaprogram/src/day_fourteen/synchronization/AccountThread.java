@@ -1,4 +1,4 @@
-package day_fourteen.Synchronization;
+package day_fourteen.synchronization;
 
 public class AccountThread extends Thread{
 	private Account acc;
